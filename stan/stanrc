@@ -1,0 +1,5 @@
+GIT_LOGIN=gitname
+GIT_PASS=gitpass
+JIRA_NAME=jiraaccount
+JIRA_PASS=jirapass
+SLACK_TOKEN=slacktoken
